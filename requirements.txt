@@ -1,0 +1,4 @@
+Flask==2.2.4
+Flask-CORS
+Flask-SQLAlchemy
+Authlib==0.15.4
